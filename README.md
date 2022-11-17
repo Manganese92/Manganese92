@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skills.thijs.gg/icons?i=figma,c,git&theme=dark)](https://skills.thijs.gg)
 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
-
-
 <br>
 
 [![Manganese92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manganese92&show_icons=true&theme=radical)](https://github.com/Manganese92/github-readme-stats)
