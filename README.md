@@ -34,6 +34,7 @@ Hi there, I'm an Alternant in Computer Science 💻!
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
+</br>
 
 ## 🌱 My Passions
 ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
@@ -41,6 +42,7 @@ Hi there, I'm an Alternant in Computer Science 💻!
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
+</br>
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/morgane-regnaut-055402224/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
