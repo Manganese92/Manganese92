@@ -4,11 +4,11 @@
 
 
 <h2 align="center">
-### Hi there, I'm an Alternant in Computer Science 💻!
+Hi there, I'm an Alternant in Computer Science 💻!
 </h2>
 
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working with
 [![My Skills](https://skills.thijs.gg/icons?i=figma,c,git&theme=dark)](https://skills.thijs.gg)
 </br>
 
