@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<a href="https://www.linkedin.com/in/morgane-regnaut-055402224/"><img align="left" src="https://raw.githubusercontent.com/Manganese92/Manganese92/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+<br>
+
 [![Manganese92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manganese92&show_icons=true&theme=radical)](https://github.com/Manganese92/github-readme-stats)
