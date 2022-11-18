@@ -3,10 +3,7 @@
 </p>
 
 
-### Hi there, I'm Manganese 👋
-<h2 align="center">
-I'm an Alternant in Computer Science 💻!
-</h2> 
+### Hi there, I'm an Alternant in Computer Science 💻!
 
 
 
