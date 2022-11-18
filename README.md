@@ -6,7 +6,7 @@
 <h2 align="center">
 Hi there, I'm an Alternant in Computer Science 💻!
 </h2>
-
+</br>
 
 ## 💼 Technical Skills
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
