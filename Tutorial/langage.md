@@ -26,15 +26,6 @@
 
 
 
-<!-- GitHub Stats-->
-<!--Remplace "Manganese92" with your GitHub username-->
-[![Manganese92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manganese92&show_icons=true&theme=radical)](https://github.com/Manganese92/github-readme-stats)
-
-
-
-
-
-
 <!--Icon & Link social media-->
 <a href="https://www.linkedin.com/in/morgane-regnaut-055402224/"><img align="left" src="https://raw.githubusercontent.com/Manganese92/Manganese92/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <!-- Or -->
@@ -74,5 +65,29 @@
 
 
 
+
+
+
+<!-- GitHub Stats-->
+<!--Remplace "Manganese92" with your GitHub username-->
+[![Manganese92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manganese92&show_icons=true&theme=radical)](https://github.com/Manganese92/github-readme-stats)
+
+
+
+
+
+
+
+<!--Most Used Languages-->
+
+<!-- Without color change-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manganese92)](https://github.com/Manganese92/github-readme-stats)
+
+<!-- With color change-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manganese92&show_icons=true&theme=radical)](https://github.com/Manganese92/github-readme-stats)
+
+
+<!-- Source: -->
+<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md">
 
 
