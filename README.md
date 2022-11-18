@@ -21,13 +21,13 @@ Hi there, I'm an Alternant in Computer Science 💻!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## 🌱 My passions
+## 🌱 My Passions
 ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/morgane-regnaut-055402224/"><img align="left" src="https://raw.githubusercontent.com/Manganese92/Manganese92/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://discord.com/channels/@me"> ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) </a>
 
 </br>
 </br>
