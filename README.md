@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="./images/Banner.jpeg" alt="my banner"></a>
+</p>
+
+
 ### Hi there 👋
 
 <!--
