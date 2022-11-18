@@ -9,6 +9,13 @@ Hi there, I'm an Alternant in Computer Science 💻!
 </br>
 
 ## 💼 Technical Skills
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+</br>
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,7 +33,7 @@ Hi there, I'm an Alternant in Computer Science 💻!
 
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/morgane-regnaut-055402224/"><img align="left" src="https://raw.githubusercontent.com/Manganese92/Manganese92/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/morgane-regnaut-055402224/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href=""> ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) </a>
 
 </br>
