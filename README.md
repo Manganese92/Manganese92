@@ -3,8 +3,9 @@
 </p>
 
 
+<h2 align="center">
 ### Hi there, I'm an Alternant in Computer Science 💻!
-
+</h2>
 
 
 ## 🔭 I'm currently working on
