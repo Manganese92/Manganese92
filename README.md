@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 </br>
 
-![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white})
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </br>
 
 ### 🤝 Connect with me:
