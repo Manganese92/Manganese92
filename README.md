@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/morgane-regnaut-055402224/"><img align="left" src="https://raw.githubusercontent.com/Manganese92/Manganese92/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 <br>
