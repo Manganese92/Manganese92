@@ -27,7 +27,7 @@ Hi there, I'm an Alternant in Computer Science 💻!
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/morgane-regnaut-055402224/"><img align="left" src="https://raw.githubusercontent.com/Manganese92/Manganese92/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://discord.com/channels/@Manganese#3333"> ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) </a>
+<a href=""> ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) </a>
 
 </br>
 </br>
