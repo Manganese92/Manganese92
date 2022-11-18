@@ -10,11 +10,11 @@ I'm an Alternant in Computer Science 💻!
 
 
 
-
+## 🔭 I'm currently working on
 [![My Skills](https://skills.thijs.gg/icons?i=figma,c,git&theme=dark)](https://skills.thijs.gg)
-
-
 </br>
+
+
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </br>
