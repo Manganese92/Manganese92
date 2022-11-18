@@ -2,10 +2,12 @@
 </br>
 
 
+
 <!--Banner with Link-->
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"><img src="./images/Banner.jpeg" alt="my banner"></a>
 </p>
+
 
 
 
@@ -24,13 +26,9 @@
 
 
 
-
-
 <!-- GitHub Stats-->
 <!--Remplace "Manganese92" with your GitHub username-->
 [![Manganese92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manganese92&show_icons=true&theme=radical)](https://github.com/Manganese92/github-readme-stats)
-
-
 
 
 
@@ -47,7 +45,6 @@
 
 
 
-
 <!--Badge-->
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -56,7 +53,7 @@
 
 
 
-[Ubunty](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubunty](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
