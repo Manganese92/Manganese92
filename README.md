@@ -32,4 +32,5 @@ Hi there, I'm an Alternant in Computer Science 💻!
 </br>
 </br>
 
+## 📈 GitHub Stats 
 [![Manganese92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manganese92&show_icons=true&theme=radical)](https://github.com/Manganese92/github-readme-stats)
